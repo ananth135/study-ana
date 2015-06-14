@@ -1,0 +1,5 @@
+test file copy
+
+*test1
+*file test
+*repo test
